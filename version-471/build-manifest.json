@@ -1,0 +1,42 @@
+{
+    "siteName": "欧美影视剧高清频道",
+    "sourceMoviesParsed": 2000,
+    "detailPages": 2000,
+    "allMoviePages": 50,
+    "mainCategories": {
+        "欧美大片": 802,
+        "国产佳片": 823,
+        "日韩精选": 312,
+        "其他地区": 63
+    },
+    "typeCategories": {
+        "其他": 2,
+        "剧集": 562,
+        "动画动漫": 14,
+        "电影": 1396,
+        "综艺纪录": 26
+    },
+    "topGenres": [
+        "剧情",
+        "喜剧",
+        "悬疑",
+        "爱情",
+        "动作",
+        "奇幻",
+        "犯罪",
+        "惊悚",
+        "家庭",
+        "恐怖",
+        "科幻",
+        "冒险",
+        "历史",
+        "战争",
+        "音乐",
+        "传记",
+        "动画",
+        "古装"
+    ],
+    "baiduAnalyticsInserted": true,
+    "imageRule": "页面优先引用网站顶级目录 1.jpg 到 150.jpg；当前素材未包含图片时使用 CSS 渐变后备显示。",
+    "player": "详情页播放器绑定本地 media/sample.m3u8，并提供 media/sample.mp4 后备源。"
+}
